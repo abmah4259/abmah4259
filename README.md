@@ -10,17 +10,7 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 
 * ✈️ **Reise og se verden:** Utforske nye kulturer og land.
 * 🏋️ **Trening:** Holde meg aktiv og i form.
-* ☕ **Brunch og venner:** Prøve ut nye brunch-steder og nyte tid med venner.
-
-***
-
-### 💖 Mine Interesser
-
-| Utenfor GitHub | |
-| :--- | :--- |
-| 🌍 **Eventyr** | Elsker å reise og se verden. |
-| 💪 **Aktivitet** | Trening og en aktiv livsstil. |
-| ☕ **Kos** | Bruke tid med venner og jakte på det perfekte brunch-stedet! |
+* ☕ **Brunch og venner:** Prøve ut nye brunch-steder og nyte tid med venner.|
  
 ## Skills
 <p align="left">
