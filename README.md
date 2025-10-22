@@ -22,3 +22,19 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmah4259&layout=compact&hide_title=true&theme=light" height="140"/>
 </picture>
 </p>
+### 💻 Figma Prosjekter
+
+<a href="[LINK TIL FIGMA PROSJEKTET]">
+  <img src="[LINK TIL BILDET PÅ GITHUB]" alt="Beskrivelse av prosjektet" width="300"/>
+</a>
+
+#### [Friend-Me]
+*Kort beskrivelse av prosjektet og ditt bidrag.*
+
+### 🎯 Min Ekspertise
+
+| Fagområde | Fokus |
+| :--- | :--- |
+| **Tech & Design** | User Experience (UX), Frontend, Dataanalyse (Jupyter) |
+| **Forretning** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
+| **Sosialt** | Sosialt arbeid, Brukerbehov (People-centered approach) |
