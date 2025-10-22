@@ -1,6 +1,6 @@
 ## Hi, I am Abbay
 
-👩🏻‍💻 Social worker with experience from NAV and supported housing • BSC thesis (2020) • Final-year IT student • Technology with purpose • Creative problem-solver with a people-centered approach
+Social worker with experience from NAV and supported housing • BSC thesis (2020) • Final-year IT student • Technology with purpose • Creative problem-solver with a people-centered approach
 
 ***
 
@@ -14,7 +14,7 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 
 ***
 
-### 🛠️ Teknisk Oversikt (Ikoner)
+### Teknisk Oversikt
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,c,react,dotnet,bootstrap,java,rider,intellij" alt="Kjerne-språk" />
@@ -22,7 +22,7 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
   <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux,vscode,idea,figma" alt="Verktøy og Devops" />
 </p>
 
-### 📊 Dybde og Metodikk
+### Dybde og Metodikk
 
 | Kategori | Spesialisering | Detaljerte ferdigheter |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 
 
 
-### 📈 GitHub at a glance
+###  GitHub at a glance
 <p>
 <picture>
 <source
@@ -54,7 +54,7 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 </p>
 
 -----------------------
-## 🚀 Prosjekter og Demoer
+##  Prosjekter og Demoer
 
 ###  T-mood (Hackathon)
 
@@ -62,7 +62,7 @@ Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Teleno
 
 [<img src="https://img.youtube.com/vi/8Bu8ytL0GMc/hqdefault.jpg" width="420" alt="Hackathon demo thumbnail">](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
 
-**🔗 Demo:** [Se Demo av Anbefalingsalgoritmen her](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
+** Demo:** [Se Demo av Anbefalingsalgoritmen her](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
 
 **Nøkkelinformasjon:**
 * **Rolle:** idé, logikk og frontend-demo
@@ -71,7 +71,7 @@ Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Teleno
 
 ***
 
-## 🎨 Figma Designprosjekter
+##  Figma Designprosjekter
 
 ***
 
