@@ -29,7 +29,7 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 | **🎨 UX/UI & Design** | **Designverktøy** | Figma, Brukertesting, Canvas, User Experience (UX) |
 | **🔄 Systemutvikling** | **Verktøy & Metodologi** | Scrum, Kanban, Git, Smidige metoder, Docker, GitHub, IntelliJ, VS Code |
 | | **Kvalitetssikring** | Enhetstesting, Feilhåndtering |
-| **📈 Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
+| **📈 Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), dataanalyse, Teknologiledelse |
 | **💡 Sosialt Fokus** | **Menneskesentrisk** | Sosialt arbeid, Brukerbehov (People-centered approach) |
 
 ***
