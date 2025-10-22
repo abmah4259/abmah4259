@@ -53,13 +53,41 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 </p>
 
 -----------------------
-
-## 🎨 Figma Designprosjekter
-***
+## 🚀 Prosjekter og Demoer
 
 ### 🏆 T-mood (Hackathon)
 
-Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Telenor. Løsningen fokuserte på å utvikle en **anbefalingsalgoritme** som raskt foreslår relevante filmer og serier på tvers av flere strømmetjenester og live-tv. Prosjektet demonstrerer evnen til å levere funksjonelle prototyper under tidspress
+Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Telenor. Løsningen fokuserte på å utvikle en **anbefalingsalgoritme** som raskt foreslår relevante filmer og serier på tvers av flere strømmetjenester og live-tv. Prosjektet demonstrerer evnen til å levere funksjonelle prototyper under tidspress.
+
+[<img src="https://img.youtube.com/vi/8Bu8ytL0GMc/hqdefault.jpg" width="420" alt="Hackathon demo thumbnail">](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
+
+**🔗 Demo:** [Se Demo av Anbefalingsalgoritmen her](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
+
+**Nøkkelinformasjon:**
+* **Rolle:** idé, logikk og frontend-demo
+* **Teknologi:** JavaScript/React, Figma
+* **Nøkkelgrep:** lettvekts scoringsmodell, tydelig UI, rask feedback
+
+***
+
+### 🔎 Mikroprosjekt: Slik inspiserer du en nettside
+
+[<img src="https://img.youtube.com/vi/sNqQO-UJl3k/hqdefault.jpg" width="420" alt="DevTools micro video thumbnail">](https://www.youtube.com/watch?v=sNqQO-UJl3k)  
+*1-min demo: inn i DevTools for å finne HTML/CSS, teste endringer og sjekke responsivitet.*
+
+**🔗 Demo:** [Se 1-minutts Demo her](https://www.youtube.com/watch?v=sNqQO-UJl3k)
+
+-----
+
+## 🎨 Figma Designprosjekter
+
+***
+
+### 📱 FriendMe App (Prototype)
+
+FriendMe er en digital app designet for å redusere ensomhet blant studenter. Den hjelper studenter med å finne venner og delta i sosiale aktiviteter i en ny by via grupper og arrangementer.
+
+**🔗 Prototype:** [Se FriendMe App-prototype her](https://www.figma.com/proto/7asvJBebrnUxOF8UzWJ3iW/App--friendme?node-id=196-209&t=7uJvJcyGUBtzXY2G-1)
 
 ### 📱 FriendMe App (Prototype)
 
