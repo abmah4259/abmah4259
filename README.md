@@ -4,7 +4,7 @@
 
 ***
 
-### Litt om meg utenfor koden
+### 🌟 Litt om meg utenfor koden
 
 Når jeg ikke koder eller jobber med design, liker jeg å:
 
@@ -17,9 +17,9 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 ### 🛠️ Teknisk Oversikt (Ikoner)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,c,react,dotnet,bootstrap,java,rider,intellij" alt="Kjerne-språk" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux,vscode,idea,figma" alt="Verktøy og Devops" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,react,dotnet,bootstrap,java,rider,intellij" alt="Kjerne-språk" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux,vscode,idea,figma" alt="Verktøy og Devops" />
 </p>
 
 ### 📊 Dybde og Metodikk
@@ -73,12 +73,6 @@ Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Teleno
 ## 🎨 Figma Designprosjekter
 
 ***
-
-### 📱 FriendMe App (Prototype)
-
-FriendMe er en digital app designet for å redusere ensomhet blant studenter. Den hjelper studenter med å finne venner og delta i sosiale aktiviteter i en ny by via grupper og arrangementer.
-
-**🔗 Prototype:** [Se FriendMe App-prototype her](https://www.figma.com/proto/7asvJBebrnUxOF8UzWJ3iW/App--friendme?node-id=196-209&t=7uJvJcyGUBtzXY2G-1)
 
 ### 📱 FriendMe App (Prototype)
 
