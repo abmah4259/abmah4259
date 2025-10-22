@@ -31,7 +31,9 @@ Disse prosjektene demonstrerer mine ferdigheter innen UX/UI-design, prototyping 
 
 FriendMe er en digital app designet for å redusere ensomhet blant studenter. Den hjelper studenter med å finne venner og delta i sosiale aktiviteter i en ny by via grupper og arrangementer, noe som gjør overgangsfasen til studiet enklere og skaper fellesskap.
 
-<a href="https://www.figma.com/proto/7asvJBebrnUxOF8UzWJ3iW/App--friendme?node-id=196-209&t=7uJvJcyGUBtzXY2G-1"> <img src="https://github.com/onildoaguiar/image-thumbnail" alt="Skjermbilde av FriendMe app prototype" width="400"/> </a>
+<a href="https://www.figma.com/proto/7asvJBebrnUxOF8UzWJ3iW/App--friendme?node-id=196-209&t=7uJvJcyGUBtzXY2G-1">
+  <img src="https://github.com/onildoaguiar/image-thumbnail" alt="Skjermbilde av FriendMe app prototype" width="400"/>
+</a>
 
 🔗 Prototype: Se FriendMe App-prototype her
 ------------------
