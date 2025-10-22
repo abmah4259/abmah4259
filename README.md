@@ -1,10 +1,10 @@
-## Hi, I am Abbay 
+## Hi, I am Abbay
 
-👩🏻‍💻 Social worker with experience from NAV and supported housing • BBA thesis (2020) • Final-year IT student • Technology with purpose • Creative problem-solver with a people-centered approach
+👩🏻‍💻 Social worker with experience from NAV and supported housing • BSC thesis (2020) • Final-year IT student • Technology with purpose • Creative problem-solver with a people-centered approach
 
 ***
 
-###  Litt om meg utenfor koden
+### Litt om meg utenfor koden
 
 Når jeg ikke koder eller jobber med design, liker jeg å:
 
@@ -26,14 +26,15 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 
 | Kategori | Spesialisering | Detaljerte ferdigheter |
 | :--- | :--- | :--- |
-| ** Fullstack & Data** | **Fullstack-utvikling** | **C, Assembly,** Java, Python, React, JavaScript, bootstrap, HTML/CSS, Spring Boot, .NET |
+| **Fullstack & Data** | **Fullstack-utvikling** | **C, Assembly,** Java, Python, React, JavaScript, bootstrap, HTML/CSS, Spring Boot, .NET |
 | | **Skripting & System** | PowerShell, Bash/Shell scripting, Linux |
 | | **Databaser & Analyse** | SQL, Datamodellering, Ytelsesoptimalisering, Jupyter |
-| ** UX/UI & Design** | **Designverktøy** | Figma, Brukertesting, Canvas, User Experience (UX) |
-| ** Systemutvikling** | **Verktøy & Metodologi** | Scrum, Kanban, Git, Smidige metoder, Docker, GitHub, IntelliJ, VS Code |
+| **UX/UI & Design** | **Designverktøy** | Figma, Brukertesting, Canvas, User Experience (UX) |
+| **Systemutvikling** | **Verktøy & Metodologi** | Scrum, Kanban, Git, Smidige metoder, Docker, GitHub, IntelliJ, VS Code |
 | | **Kvalitetssikring** | Enhetstesting, Feilhåndtering |
-| ** Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
-| ** Sosialt Fokus** | **Menneskesentrisk** | Sosialt arbeid, Brukerbehov (People-centered approach) |
+| **Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
+| **Sosialt Fokus** | **Menneskesentrisk** | Sosialt arbeid, Brukerbehov (People-centered approach) |
+
 
 
 ### 📈 GitHub at a glance
