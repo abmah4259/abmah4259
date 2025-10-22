@@ -56,7 +56,7 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 -----------------------
 ## 🚀 Prosjekter og Demoer
 
-### 🏆 T-mood (Hackathon)
+###  T-mood (Hackathon)
 
 Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Telenor. Løsningen fokuserte på å utvikle en **anbefalingsalgoritme** som raskt foreslår relevante filmer og serier på tvers av flere strømmetjenester og live-tv. Prosjektet demonstrerer evnen til å levere funksjonelle prototyper under tidspress.
 
@@ -75,24 +75,24 @@ Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Teleno
 
 ***
 
-### 📱 FriendMe App (Prototype)
+### FriendMe App (Prototype)
 
 FriendMe er en digital app designet for å redusere ensomhet blant studenter. Den hjelper studenter med å finne venner og delta i sosiale aktiviteter i en ny by via grupper og arrangementer.
 
-**🔗 Prototype:** [Se FriendMe App-prototype her](https://www.figma.com/proto/7asvJBebrnUxOF8UzWJ3iW/App--friendme?node-id=196-209&t=7uJvJcyGUBtzXY2G-1)
+** Prototype:** [Se FriendMe App-prototype her](https://www.figma.com/proto/7asvJBebrnUxOF8UzWJ3iW/App--friendme?node-id=196-209&t=7uJvJcyGUBtzXY2G-1)
 
 ***
 
-### 🌐 FriendMe Nettside
+### FriendMe Nettside
 
 Nettsiden fungerer som et visuelt og funksjonelt vindu mot appen. Den informerer potensielle brukere om FriendMe og gjør tjenesten mer tilgjengelig.
 
-**🔗 Prototype:** [Se FriendMe Nettside-prototype her](https://www.figma.com/proto/PMFVB68lide8Mf1yyQg6Gp/Nettside--friendme?t=5uvPjwrBvtHCoJMQ-1)
+** Prototype:** [Se FriendMe Nettside-prototype her](https://www.figma.com/proto/PMFVB68lide8Mf1yyQg6Gp/Nettside--friendme?t=5uvPjwrBvtHCoJMQ-1)
 
 ***
 
-### 📊 Visualisering – Arngren.net
+### Visualisering – Arngren.net
 
 Dette prosjektet er en modernisert og brukervennlig Figma-prototype for datavisualisering. Vi har kategorisert produktene, oppdatert designet, og brukt visualiseringsteknikker for bedre oversikt og navigasjon.
 
-**🔗 Prototype:** [Se Visualiseringsprototype her](https://www.figma.com/proto/27xeWMjwQ20PtQ2qLeGM9h/Visualisering?node-id=0-1&t=5uvPjwrBvtHCoJMQ-1)
+** Prototype:** [Se Visualiseringsprototype her](https://www.figma.com/proto/27xeWMjwQ20PtQ2qLeGM9h/Visualisering?node-id=0-1&t=5uvPjwrBvtHCoJMQ-1)
