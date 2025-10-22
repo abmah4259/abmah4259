@@ -14,10 +14,12 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 
 ***
 
-### 🛠️ Teknisk Oversikt
+### 🛠️ Teknisk Oversikt (Ikoner)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,c,postgresql,docker,git,github,linux,react,dotnet,bootstrap" alt="Tekniske ferdigheter" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,react,dotnet,bootstrap,java,rider,intellij" alt="Kjerne-språk" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,sql,docker,git,github,linux,vscode,idea" alt="Verktøy og Devops" />
 </p>
 
 ### 📊 Dybde og Metodikk
