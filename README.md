@@ -10,17 +10,31 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 
 * ✈️ **Reise og se verden:** Utforske nye kulturer og land.
 * 🏋️ **Trening:** Holde meg aktiv og i form.
-* ☕ **Brunch og venner:** Prøve ut nye brunch-steder og nyte tid med venner.|
- 
-## Skills
-### ⚙️ Mine tekniske ferdigheter
-<p align="left">
+* ☕ **Brunch og venner:** Prøve ut nye brunch-steder og nyte tid med venner.
+
+***
+
+### 🛠️ Teknisk Oversikt (Ikoner)
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,postgresql,docker,git,github,linux,mysql,react,dotnet,bootstrap" alt="Tekniske ferdigheter" />
 </p>
-</p>
- 
-### 📊 GitHub at a glance
+
+### 📊 Dybde og Metodikk
+
+| Kategori | Spesialisering | Detaljerte ferdigheter |
+| :--- | :--- | :--- |
+| **💻 Fullstack & Data** | **Fullstack-utvikling** | Java, Python, React, JavaScript, bootstrap, HTML/CSS, Spring Boot, .NET |
+| | **Databaser & Analyse** | SQL, Datamodellering, Ytelsesoptimalisering, Jupyter |
+| **🎨 UX/UI & Design** | **Designverktøy** | Figma, Brukertesting, Canvas, User Experience (UX) |
+| **🔄 Systemutvikling** | **Verktøy & Metodologi** | Scrum, Kanban, Git, Smidige metoder, Docker, GitHub, IntelliJ, VS Code |
+| | **Kvalitetssikring** | Enhetstesting, Feilhåndtering |
+| **📈 Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
+| **💡 Sosialt Fokus** | **Menneskesentrisk** | Sosialt arbeid, Brukerbehov (People-centered approach) |
+
+***
+
+### 📈 GitHub at a glance
 <p>
 <picture>
 <source
@@ -37,6 +51,7 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 </p>
 
 -----------------------
+
 ## 🎨 Figma Designprosjekter
 ***
 
@@ -61,25 +76,3 @@ Nettsiden fungerer som et visuelt og funksjonelt vindu mot appen. Den informerer
 Dette prosjektet er en modernisert og brukervennlig Figma-prototype for datavisualisering. Vi har kategorisert produktene, oppdatert designet, og brukt visualiseringsteknikker for bedre oversikt og navigasjon.
 
 **🔗 Prototype:** [Se Visualiseringsprototype her](https://www.figma.com/proto/27xeWMjwQ20PtQ2qLeGM9h/Visualisering?node-id=0-1&t=5uvPjwrBvtHCoJMQ-1)
-
-### 🛠️ Ferdigheter og Ekspertise
-
-| Kategori | Spesialisering | Detaljerte ferdigheter |
-| :--- | :--- | :--- |
-| **💻 Fullstack & Data** | **Fullstack-utvikling** | Java, Python, React, JavaScript, bootstrap, HTML/CSS, Spring Boot, .NET |
-| | **Databaser & Analyse** | SQL, Datamodellering, Ytelsesoptimalisering, Jupyter |
-| **🎨 UX/UI & Design** | **Designverktøy** | Figma, Brukertesting, Canvas, User Experience (UX) |
-| **🔄 Systemutvikling** | **Verktøy & Metodologi** | Scrum, Kanban, Git, Smidige metoder, Docker, GitHub, IntelliJ, VS Code |
-| | **Kvalitetssikring** | Enhetstesting, Feilhåndtering |
-| **📈 Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
-| **💡 Sosialt Fokus** | **Menneskesentrisk** | Sosialt arbeid, Brukerbehov (People-centered approach) |
-
-***
-
-### ⚙️ Verktøy i bruk (Ikoner)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,react,js,kotlin,html,css,spring,dotnet,sql" alt="Språk og rammeverk" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=figma,docker,github,idea,vscode,jupyter,git" alt="Verktøy og plattformer" />
-</p>
