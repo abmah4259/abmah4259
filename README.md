@@ -24,36 +24,43 @@
 </p>
 
 -----------------------
-🎨 Figma Designprosjekter
-Disse prosjektene demonstrerer mine ferdigheter innen UX/UI-design, prototyping og datavisualisering i Figma.
+## 🎨 Figma Designprosjekter
 
-📱 FriendMe App (Prototype)
+***
 
-FriendMe er en digital app designet for å redusere ensomhet blant studenter. Den hjelper studenter med å finne venner og delta i sosiale aktiviteter i en ny by via grupper og arrangementer, noe som gjør overgangsfasen til studiet enklere og skaper fellesskap.
+### 📱 FriendMe App (Prototype)
 
-<a href="https://www.figma.com/proto/7asvJBebrnUxOF8UzWJ3iW/App--friendme?node-id=196-209&t=7uJvJcyGUBtzXY2G-1">
-  <img src="https://github.com/onildoaguiar/image-thumbnail" alt="Skjermbilde av FriendMe app prototype" width="400"/>
+FriendMe er en digital app designet for å redusere ensomhet blant studenter.
+
+<a href="DIN_KORREKTE_FIGMA_APP_URL_HER">
+  <img src="DIN_URL_TIL_APP_BILDET_PÅ_GITHUB" alt="Skjermbilde av FriendMe app prototype" width="400"/>
 </a>
 
-🔗 Prototype: Se FriendMe App-prototype her
-------------------
+**🔗 Prototype:** [Se FriendMe App-prototype her](DIN_KORREKTE_FIGMA_APP_URL_HER)
 
-🌐 FriendMe Nettside
+***
 
-Nettsiden fungerer som et visuelt og funksjonelt vindu mot appen. Den informerer potensielle brukere om FriendMe og gjør tjenesten mer tilgjengelig, i tillegg til å bygge merkevaren.
+### 🌐 FriendMe Nettside
 
-<a href="https://www.figma.com/proto/PMFVB68lide8Mf1yyQg6Gp/Nettside--friendme?t=5uvPjwrBvtHCoJMQ-1"> <img src="https://github.com/onildoaguiar/image-thumbnail" alt="Skjermbilde av FriendMe nettside" width="400"/> </a>
+Nettsiden fungerer som et visuelt og funksjonelt vindu mot appen.
 
-🔗 Prototype: Se FriendMe Nettside-prototype her
-----------------------
+<a href="DIN_KORREKTE_FIGMA_NETTSIDE_URL_HER">
+  <img src="DIN_URL_TIL_NETTSIDE_BILDET_PÅ_GITHUB" alt="Skjermbilde av FriendMe nettside" width="400"/>
+</a>
 
-📊 Visualisering – Arngren.net
+**🔗 Prototype:** [Se FriendMe Nettside-prototype her](DIN_KORREKTE_FIGMA_NETTSIDE_URL_HER)
 
-Dette prosjektet er en modernisert og brukervennlig Figma-prototype basert på datasettet fra Arngren.net. Vi har kategorisert produktene, oppdatert designet, og brukt ulike visualiseringsteknikker og teorier for å skape bedre oversikt og navigasjon.
+***
 
-<a href="https://www.figma.com/proto/27xeWMjwQ20PtQ2qLeGM9h/Visualisering?node-id=0-1&t=5uvPjwrBvtHCoJMQ-1"> <img src="https://github.com/onildoaguiar/image-thumbnail" alt="Skjermbilde av Visualiseringsprosjektet" width="400"/> </a>
+### 📊 Visualisering – Arngren.net
 
-🔗 Prototype: Se Visualiseringsprototype her
+Dette prosjektet er en modernisert og brukervennlig Figma-prototype for datavisualisering.
+
+<a href="DIN_KORREKTE_FIGMA_VISUALISERING_URL_HER">
+  <img src="DIN_URL_TIL_VISUALISERING_BILDET_PÅ_GITHUB" alt="Skjermbilde av Visualiseringsprosjektet" width="400"/>
+</a>
+
+**🔗 Prototype:** [Se Visualiseringsprototype her](DIN_KORREKTE_FIGMA_VISUALISERING_URL_HER)
 
 ### 🎯 Min Ekspertise
 
