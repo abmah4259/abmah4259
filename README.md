@@ -13,8 +13,11 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 * ☕ **Brunch og venner:** Prøve ut nye brunch-steder og nyte tid med venner.|
  
 ## Skills
+### ⚙️ Mine tekniske ferdigheter
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,postgresql,docker,git,github,linux,mysql,react,dotnet,bootstrap" alt="Tekniske ferdigheter" />
+</p>
 </p>
  
 ### 📊 GitHub at a glance
@@ -63,7 +66,7 @@ Dette prosjektet er en modernisert og brukervennlig Figma-prototype for datavisu
 
 | Kategori | Spesialisering | Detaljerte ferdigheter |
 | :--- | :--- | :--- |
-| **💻 Fullstack & Data** | **Fullstack-utvikling** | Java, Python, React, JavaScript, Kotlin, HTML/CSS, Spring Boot, .NET |
+| **💻 Fullstack & Data** | **Fullstack-utvikling** | Java, Python, React, JavaScript, bootstrap, HTML/CSS, Spring Boot, .NET |
 | | **Databaser & Analyse** | SQL, Datamodellering, Ytelsesoptimalisering, Jupyter |
 | **🎨 UX/UI & Design** | **Designverktøy** | Figma, Brukertesting, Canvas, User Experience (UX) |
 | **🔄 Systemutvikling** | **Verktøy & Metodologi** | Scrum, Kanban, Git, Smidige metoder, Docker, GitHub, IntelliJ, VS Code |
