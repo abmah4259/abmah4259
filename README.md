@@ -95,4 +95,4 @@ Nettsiden fungerer som et visuelt og funksjonelt vindu mot appen. Den informerer
 
 Dette prosjektet er en modernisert og brukervennlig Figma-prototype for datavisualisering. Vi har kategorisert produktene, oppdatert designet, og brukt visualiseringsteknikker for bedre oversikt og navigasjon.
 
-** Prototype:** [Se Visualiseringsprototype her](https://www.figma.com/proto/27xeWMjwQ20PtQ2qLeGM9h/Visualisering?node-id=0-1&t=5uvPjwrBvtHCoJMQ-1)
+*** Prototype:** [Se Visualiseringsprototype her](https://www.figma.com/proto/27xeWMjwQ20PtQ2qLeGM9h/Visualisering?node-id=0-1&t=5uvPjwrBvtHCoJMQ-1)
