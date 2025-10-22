@@ -73,6 +73,7 @@ Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Teleno
 ### 🔎 Mikroprosjekt: Slik inspiserer du en nettside
 
 [<img src="https://img.youtube.com/vi/sNqQO-UJl3k/hqdefault.jpg" width="420" alt="DevTools micro video thumbnail">](https://www.youtube.com/watch?v=sNqQO-UJl3k)  
+
 *1-min demo: inn i DevTools for å finne HTML/CSS, teste endringer og sjekke responsivitet.*
 
 **🔗 Demo:** [Se 1-minutts Demo her](https://www.youtube.com/watch?v=sNqQO-UJl3k)
