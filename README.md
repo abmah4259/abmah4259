@@ -17,7 +17,7 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 ### 🛠️ Teknisk Oversikt
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,c,shell,postgresql,docker,git,github,linux,mysql,react,dotnet,bootstrap" alt="Tekniske ferdigheter" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,postgresql,docker,git,github,linux,sql,react,dotnet,bootstrap" alt="Tekniske ferdigheter" />
 </p>
 
 ### 📊 Dybde og Metodikk
