@@ -62,7 +62,7 @@ Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Teleno
 
 [<img src="https://img.youtube.com/vi/8Bu8ytL0GMc/hqdefault.jpg" width="420" alt="Hackathon demo thumbnail">](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
 
-** Demo:** [Se Demo av Anbefalingsalgoritmen her](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
+Demo: [Se Demo av Anbefalingsalgoritmen her](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
 
 **Nøkkelinformasjon:**
 * **Rolle:** idé, logikk og frontend-demo
@@ -79,7 +79,7 @@ Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Teleno
 
 FriendMe er en digital app designet for å redusere ensomhet blant studenter. Den hjelper studenter med å finne venner og delta i sosiale aktiviteter i en ny by via grupper og arrangementer.
 
-** Prototype:** [Se FriendMe App-prototype her](https://www.figma.com/proto/7asvJBebrnUxOF8UzWJ3iW/App--friendme?node-id=196-209&t=7uJvJcyGUBtzXY2G-1)
+ Prototype: [Se FriendMe App-prototype her](https://www.figma.com/proto/7asvJBebrnUxOF8UzWJ3iW/App--friendme?node-id=196-209&t=7uJvJcyGUBtzXY2G-1)
 
 ***
 
@@ -87,7 +87,7 @@ FriendMe er en digital app designet for å redusere ensomhet blant studenter. De
 
 Nettsiden fungerer som et visuelt og funksjonelt vindu mot appen. Den informerer potensielle brukere om FriendMe og gjør tjenesten mer tilgjengelig.
 
-** Prototype:** [Se FriendMe Nettside-prototype her](https://www.figma.com/proto/PMFVB68lide8Mf1yyQg6Gp/Nettside--friendme?t=5uvPjwrBvtHCoJMQ-1)
+Prototype:  [Se FriendMe Nettside-prototype her](https://www.figma.com/proto/PMFVB68lide8Mf1yyQg6Gp/Nettside--friendme?t=5uvPjwrBvtHCoJMQ-1)
 
 ***
 
@@ -95,4 +95,4 @@ Nettsiden fungerer som et visuelt og funksjonelt vindu mot appen. Den informerer
 
 Dette prosjektet er en modernisert og brukervennlig Figma-prototype for datavisualisering. Vi har kategorisert produktene, oppdatert designet, og brukt visualiseringsteknikker for bedre oversikt og navigasjon.
 
-*** Prototype:** [Se Visualiseringsprototype her](https://www.figma.com/proto/27xeWMjwQ20PtQ2qLeGM9h/Visualisering?node-id=0-1&t=5uvPjwrBvtHCoJMQ-1)
+Prototype:  [Se Visualiseringsprototype her](https://www.figma.com/proto/27xeWMjwQ20PtQ2qLeGM9h/Visualisering?node-id=0-1&t=5uvPjwrBvtHCoJMQ-1)
