@@ -26,14 +26,14 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 
 | Kategori | Spesialisering | Detaljerte ferdigheter |
 | :--- | :--- | :--- |
-| **💻 Fullstack & Data** | **Fullstack-utvikling** | **C, Assembly,** Java, Python, React, JavaScript, bootstrap, HTML/CSS, Spring Boot, .NET |
+| ** Fullstack & Data** | **Fullstack-utvikling** | **C, Assembly,** Java, Python, React, JavaScript, bootstrap, HTML/CSS, Spring Boot, .NET |
 | | **Skripting & System** | PowerShell, Bash/Shell scripting, Linux |
 | | **Databaser & Analyse** | SQL, Datamodellering, Ytelsesoptimalisering, Jupyter |
-| **🎨 UX/UI & Design** | **Designverktøy** | Figma, Brukertesting, Canvas, User Experience (UX) |
-| **🔄 Systemutvikling** | **Verktøy & Metodologi** | Scrum, Kanban, Git, Smidige metoder, Docker, GitHub, IntelliJ, VS Code |
+| ** UX/UI & Design** | **Designverktøy** | Figma, Brukertesting, Canvas, User Experience (UX) |
+| ** Systemutvikling** | **Verktøy & Metodologi** | Scrum, Kanban, Git, Smidige metoder, Docker, GitHub, IntelliJ, VS Code |
 | | **Kvalitetssikring** | Enhetstesting, Feilhåndtering |
-| **📈 Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
-| **💡 Sosialt Fokus** | **Menneskesentrisk** | Sosialt arbeid, Brukerbehov (People-centered approach) |
+| ** Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
+| ** Sosialt Fokus** | **Menneskesentrisk** | Sosialt arbeid, Brukerbehov (People-centered approach) |
 
 
 ### 📈 GitHub at a glance
