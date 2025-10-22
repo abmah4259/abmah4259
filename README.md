@@ -11,14 +11,14 @@
 <p>
 <picture>
 <source
-      srcset="https://github-readme-stats.vercel.app/api?username=abmah4259&show_icons=true&hide_title=true&theme=dark"
-      media="(prefers-color-scheme: dark)"/>
-<img src="https://github-readme-stats.vercel.app/api?username=abmah4259&show_icons=true&hide_title=true&theme=light" height="140"/>
+      srcset="https://github-readme-stats.vercel.app/api?username=abmah4259&show_icons=true&hide_title=true&theme=dark&hide_rank=true"
+      media="(prefers-color-scheme: dark)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abmah4259&show_icons=true&hide_title=true&theme=light&hide_rank=true" height="140"/>
 </picture>
 <picture>
 <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abmah4259&layout=compact&hide_title=true&theme=dark"
-      media="(prefers-color-scheme: dark)"/>
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abmah4259&layout=compact&hide_title=true&theme=dark"
+      media="(prefers-color-scheme: dark)"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmah4259&layout=compact&hide_title=true&theme=light" height="140"/>
 </picture>
 </p>
