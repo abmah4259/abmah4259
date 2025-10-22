@@ -14,7 +14,7 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 
 ***
 
-### 🛠️ Teknisk Oversikt (Ikoner)
+### 🛠️ Teknisk Oversikt
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,postgresql,docker,git,github,linux,mysql,react,dotnet,bootstrap" alt="Tekniske ferdigheter" />
