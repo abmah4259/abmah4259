@@ -17,22 +17,22 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 ### 🛠️ Teknisk Oversikt
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,postgresql,docker,git,github,linux,mysql,react,dotnet,bootstrap" alt="Tekniske ferdigheter" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,shell,postgresql,docker,git,github,linux,mysql,react,dotnet,bootstrap" alt="Tekniske ferdigheter" />
 </p>
 
 ### 📊 Dybde og Metodikk
 
 | Kategori | Spesialisering | Detaljerte ferdigheter |
 | :--- | :--- | :--- |
-| **💻 Fullstack & Data** | **Fullstack-utvikling** | Java, Python, React, JavaScript, bootstrap, HTML/CSS, Spring Boot, .NET |
+| **💻 Fullstack & Data** | **Fullstack-utvikling** | **C, Assembly,** Java, Python, React, JavaScript, bootstrap, HTML/CSS, Spring Boot, .NET |
+| | **Skripting & System** | PowerShell, Bash/Shell scripting, Linux |
 | | **Databaser & Analyse** | SQL, Datamodellering, Ytelsesoptimalisering, Jupyter |
 | **🎨 UX/UI & Design** | **Designverktøy** | Figma, Brukertesting, Canvas, User Experience (UX) |
 | **🔄 Systemutvikling** | **Verktøy & Metodologi** | Scrum, Kanban, Git, Smidige metoder, Docker, GitHub, IntelliJ, VS Code |
 | | **Kvalitetssikring** | Enhetstesting, Feilhåndtering |
-| **📈 Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), dataanalyse, Teknologiledelse |
+| **📈 Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
 | **💡 Sosialt Fokus** | **Menneskesentrisk** | Sosialt arbeid, Brukerbehov (People-centered approach) |
 
-***
 
 ### 📈 GitHub at a glance
 <p>
