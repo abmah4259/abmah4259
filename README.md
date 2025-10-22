@@ -1,10 +1,10 @@
-## Hi, I am Abbay 👋
+## Hi, I am Abbay 
 
 👩🏻‍💻 Social worker with experience from NAV and supported housing • BBA thesis (2020) • Final-year IT student • Technology with purpose • Creative problem-solver with a people-centered approach
 
 ***
 
-### 🌟 Litt om meg utenfor koden
+###  Litt om meg utenfor koden
 
 Når jeg ikke koder eller jobber med design, liker jeg å:
 
