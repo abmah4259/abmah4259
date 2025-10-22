@@ -55,6 +55,10 @@ Når jeg ikke koder eller jobber med design, liker jeg å:
 ## 🎨 Figma Designprosjekter
 ***
 
+### 🏆 T-mood (Hackathon)
+
+Dette prosjektet er et innovativt konsept utviklet under et Hackathon for Telenor. Løsningen fokuserte på å utvikle en **anbefalingsalgoritme** som raskt foreslår relevante filmer og serier på tvers av flere strømmetjenester og live-tv. Prosjektet demonstrerer evnen til å levere funksjonelle prototyper under tidspress
+
 ### 📱 FriendMe App (Prototype)
 
 FriendMe er en digital app designet for å redusere ensomhet blant studenter. Den hjelper studenter med å finne venner og delta i sosiale aktiviteter i en ny by via grupper og arrangementer.
