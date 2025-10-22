@@ -1,6 +1,26 @@
 ## Hi, I am Abbay 👋
 
-👩🏻‍💻 Social worker with experience from NAV and supported housing • BBA thesis (2020) • Final-year IT student • Technology with purpose • Creative problem-solver with a people-centered approach.
+👩🏻‍💻 Social worker with experience from NAV and supported housing • BBA thesis (2020) • Final-year IT student • Technology with purpose • Creative problem-solver with a people-centered approach
+
+***
+
+### 🌟 Litt om meg utenfor koden
+
+Når jeg ikke koder eller jobber med design, liker jeg å:
+
+* ✈️ **Reise og se verden:** Utforske nye kulturer og land.
+* 🏋️ **Trening:** Holde meg aktiv og i form.
+* ☕ **Brunch og venner:** Prøve ut nye brunch-steder og nyte tid med venner.
+
+***
+
+### 💖 Mine Interesser
+
+| Utenfor GitHub | |
+| :--- | :--- |
+| 🌍 **Eventyr** | Elsker å reise og se verden. |
+| 💪 **Aktivitet** | Trening og en aktiv livsstil. |
+| ☕ **Kos** | Bruke tid med venner og jakte på det perfekte brunch-stedet! |
  
 ## Skills
 <p align="left">
@@ -49,10 +69,24 @@ Dette prosjektet er en modernisert og brukervennlig Figma-prototype for datavisu
 
 **🔗 Prototype:** [Se Visualiseringsprototype her](https://www.figma.com/proto/27xeWMjwQ20PtQ2qLeGM9h/Visualisering?node-id=0-1&t=5uvPjwrBvtHCoJMQ-1)
 
-### 🎯 Min Ekspertise
+### 🛠️ Ferdigheter og Ekspertise
 
-| Fagområde | Fokus |
-| :--- | :--- |
-| **Tech & Design** | User Experience (UX), Frontend, Dataanalyse (Jupyter) |
-| **Forretning** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
-| **Sosialt** | Sosialt arbeid, Brukerbehov (People-centered approach) |
+| Kategori | Spesialisering | Detaljerte ferdigheter |
+| :--- | :--- | :--- |
+| **💻 Fullstack & Data** | **Fullstack-utvikling** | Java, Python, React, JavaScript, Kotlin, HTML/CSS, Spring Boot, .NET |
+| | **Databaser & Analyse** | SQL, Datamodellering, Ytelsesoptimalisering, Jupyter |
+| **🎨 UX/UI & Design** | **Designverktøy** | Figma, Brukertesting, Canvas, User Experience (UX) |
+| **🔄 Systemutvikling** | **Verktøy & Metodologi** | Scrum, Kanban, Git, Smidige metoder, Docker, GitHub, IntelliJ, VS Code |
+| | **Kvalitetssikring** | Enhetstesting, Feilhåndtering |
+| **📈 Forretning** | **Analyse & Ledelse** | BBA Thesis (2020), Forretningsanalyse, Teknologiledelse |
+| **💡 Sosialt Fokus** | **Menneskesentrisk** | Sosialt arbeid, Brukerbehov (People-centered approach) |
+
+***
+
+### ⚙️ Verktøy i bruk (Ikoner)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,react,js,kotlin,html,css,spring,dotnet,sql" alt="Språk og rammeverk" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,docker,github,idea,vscode,jupyter,git" alt="Verktøy og plattformer" />
+</p>
